@@ -1,5 +1,4 @@
-import torch.nn.functional as F
-import tensorflow as tf
+
 def quick_sort(n):
     if len(n) < 2:
         return n
